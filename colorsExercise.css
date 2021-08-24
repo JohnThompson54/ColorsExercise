@@ -1,10 +1,13 @@
 /* Colors Exercise providing color for each word to lyrical line from song Somewhere Over the Rainbow */
 
 h1 {
-    color:salmon;
+    color:salmon; 
+    background-color: red;
+    border: green; 
 }
 h2 {
     color: #867530;
+    background-color: orange;
 }
 h3 {
     color: #a4d;
@@ -20,4 +23,7 @@ h6 {
 }
 p {
     color: rgba(215, 34, 55, .2)
+}
+ol {
+    color:hotpink
 }
